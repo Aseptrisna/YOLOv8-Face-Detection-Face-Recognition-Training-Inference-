@@ -20,9 +20,6 @@ Metode ini menggunakan YOLOv8 secara penuh, tanpa FaceNet, tanpa embedding, dan 
 ---
 
 ## 2. Struktur Folder Project
-------------------------------------------------------------
-Struktur Folder
-------------------------------------------------------------
 
 project/
  ├── datasets/
@@ -35,7 +32,6 @@ project/
  ├── detect_and_recognize.py
  ├── requirements.txt
  └── README.md
-------------------------------------------------------------
 
 Penjelasan:
 - datasets/ → folder dataset berisi foto wajah per orang.
